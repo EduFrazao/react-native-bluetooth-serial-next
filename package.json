@@ -1,5 +1,5 @@
 {
-  "name": "@infobiotech/react-native-bluetooth-serial-next",
+  "name": "react-native-bluetooth-serial-next",
   "version": "0.6.0",
   "description": "Bluetooth serial for react native",
   "main": "index.js",
@@ -20,9 +20,9 @@
   "author": "Infobiotech <a.raffa@infobiotech.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/infobiotech/react-native-bluetooth-serial-next/issues"
+    "url": "https://github.com/EduFrazao/react-native-bluetooth-serial-next/pulls"
   },
-  "homepage": "https://github.com/infobiotech/react-native-bluetooth-serial-next/",
+  "homepage": "https://github.com/EduFrazao/react-native-bluetooth-serial-next",
   "dependencies": {
     "@babel/runtime": "^7.1.5",
     "buffer": "^6.0.3"
